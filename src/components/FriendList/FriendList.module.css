@@ -1,0 +1,17 @@
+.friendList {
+    display: flex;
+    gap: 40px;
+    background-color: aliceblue;
+    color: black;
+    list-style-type: none;
+    padding: 40px;
+    margin: 0 auto;
+    margin-bottom: 200px;
+}
+
+.friendList li{
+border: 2px solid black;
+width: 100%;
+padding: 10px;
+border-radius: 10px;
+}

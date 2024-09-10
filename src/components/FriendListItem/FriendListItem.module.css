@@ -1,0 +1,19 @@
+.friendItem img{
+    width: 74px;
+}
+.friendItem p {
+    font-weight: 500;
+    font-size: 20px;
+}
+.friendItem p.status {
+    font-size: 18px;
+    font-weight: normal;
+}
+.online {
+   
+    color: rgb(14, 197, 14);
+}
+.offline {
+    
+    color: red;
+}
